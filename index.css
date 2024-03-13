@@ -1,0 +1,25 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+td{
+    border: 2px solid black;    
+    padding: 5px;
+   
+}
+table{
+    border: 5px solid rgb(117, 117, 250);
+    border-collapse: collapse;
+    background-color: rgb(207, 237, 211);
+}  
+.all{
+    width: 80%;
+    align-items: center;
+    margin-top: 50px;
+}
+.txt-mono{
+    width: 80%;
+    margin: auto;
+}
